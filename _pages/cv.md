@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+[Resume(Updated Dec 2024)](https://longdvt.github.io/files/CV.pdf)
+
+<!-- Education -->
+<!-- ====== -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Mechatronics (Talented Program), Hanoi University of Science and Technology (HUST), 2018-2022
+<!-- * B.S. in Mechatronics (Talented Program), Hanoi University of Science and Technology (HUST), 2018-2022 -->
 
 <!-- Work experience
 ======
@@ -41,11 +43,11 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
